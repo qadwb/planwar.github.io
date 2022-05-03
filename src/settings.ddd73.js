@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","hero","enemy"],collisionMatrix:[[true],[false,false,true],[false,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Main.fire",orientation:"",jsList:[],bundleVers:{internal:"d17e2",main:"8ff8e"}};
